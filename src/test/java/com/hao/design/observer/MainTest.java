@@ -1,6 +1,11 @@
-package com.hao.design;
+package com.hao.design.observer;
 
 import org.junit.Test;
+
+import com.hao.design.observer.ConcretObserver;
+import com.hao.design.observer.ConcretSubject;
+import com.hao.design.observer.IObserver;
+import com.hao.design.observer.ISubject;
 
 public class MainTest {
 

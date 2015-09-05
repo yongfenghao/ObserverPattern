@@ -1,4 +1,4 @@
-package com.hao.design;
+package com.hao.design.observer;
 
 import java.util.ArrayList;
 import java.util.List;
